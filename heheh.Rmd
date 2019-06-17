@@ -1,0 +1,12 @@
+---
+title: "hehehe"
+author: "Michael Friedman"
+date: "6/17/2019"
+output: html_document
+---
+
+
+
+# What's the difference between a lobseter with breast implants and a dirty bus stop?
+
+# One's a crusty bus station and the other is a busty crustacean ;)
