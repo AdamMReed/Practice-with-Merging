@@ -1,0 +1,9 @@
+---
+title: "Ashley"
+author: "Ashley Julian"
+date: "June 17, 2019"
+output: word_document
+---
+
+# Ashley did this thing!!
+
