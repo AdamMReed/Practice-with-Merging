@@ -7,3 +7,5 @@ output: html_document
 
 # Did you know that a white tailed deer can jump higher than the average house?
 # This is due to its impressive hind legs, and also the fact that houses can't jump.
+
+Nice dad joke!
