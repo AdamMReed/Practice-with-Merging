@@ -12,3 +12,5 @@ knitr::opts_chunk$set(echo = TRUE)
 #git is kewl
 
 octocat rules >^..^<
+
+# i second these statements ^^^ -mike
